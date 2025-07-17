@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Sebastian Pucher Rusty Life Demo](./assets/BC_DEMO_GH.gif)
+![Sebastian Pucher Rusty Life Demo](./assets/BC_DEMO.gif)
 
 <!--
 **SebPuchi/SebPuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
