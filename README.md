@@ -1,4 +1,4 @@
-## Sebastian Pucher 
+# Sebastian Pucher 
 ![Sebastian Pucher Rusty Life Demo](./assets/BC_DEMO.gif)
 
 ## Some things about me...
